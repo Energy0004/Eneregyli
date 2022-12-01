@@ -1,3 +1,5 @@
+package OOP;
+
 import java.util.Scanner;
 
 public class SSN {
@@ -7,9 +9,9 @@ public class SSN {
         String s = input.nextLine();
         input.close();
         if (s.matches("\\d\\d\\d-\\d\\d-\\d\\d\\d\\d")) {
-            System.out.println(s + " is a valid social security number.");
+            System.out.println(s + " is Package1.a valid social security number.");
         } else {
-            System.out.println(s + " is a invalid social security number.");
+            System.out.println(s + " is Package1.a invalid social security number.");
         }
     }
 }
