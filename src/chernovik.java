@@ -100,5 +100,6 @@ public class chernovik {
 //        for(int p = 0; p < 50; p++)
 //            b = Math.max(b,a[p]);
 //        System.out.println(b);
+//        System.out.println();
     }
 }
