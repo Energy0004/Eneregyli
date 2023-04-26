@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c417e5a3-786a-498c-8751-e452c08b018d" name="Changes" comment="Ok">
-      <change afterPath="$PROJECT_DIR$/src/ID.ser" afterDir="false" />
-    </list>
+    <list default="true" id="c417e5a3-786a-498c-8751-e452c08b018d" name="Changes" comment="Ok" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -112,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682502255707</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Ok">
+      <created>1682502613734</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1682502613734</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
